@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariano80
-- 👀 I’m interested in Arduino, Model Railroad and Cloud Apps.
-- 🌱 I’m currently learning Python a Golang
+- 👀 I’m interested in ESP32 Prog, Model Railroad, Cloud Apps and Hamradio.
+- 🌱 I’m currently learning Javascript Derived Pog Languagues a Golang
 - 💞️ I’m looking to collaborate on any simple project
 - 📫 How to reach me (via message)
 
